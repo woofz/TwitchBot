@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LoLStatsTwitchBot.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="twitchAccessToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="twitchBotName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="riotGamesAPIKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="joinMessage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">League of Legends Stats Bot [EUW] è ora attivo. Digita !lolstats SummonerName per conoscere il rank e le wins/losses del Summoner interessato.</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
